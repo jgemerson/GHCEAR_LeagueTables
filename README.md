@@ -7,7 +7,7 @@ This R Shiny App serves a front-end search feature for the database, as well as 
 
 
 ## Links and Access
-###### [League Table](https://cevr.shinyapps.io/LeagueTables/)
+### [League Tables](https://cevr.shinyapps.io/LeagueTables/)
 
 The GH CEA Registry data are open-access, available on the [GH CEA Registry website](http://healtheconomics.tuftsmedicalcenter.org/orchard/download-dataset) and the [search feature itself](https://cevr.shinyapps.io/LeagueTables/).
 
