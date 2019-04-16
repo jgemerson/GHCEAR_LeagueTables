@@ -25,7 +25,22 @@ Packages used:
 Current verion: 1.2.1. Last updated April 4, 2019.
 
 ## Screenshots
-![](https://github.com/jgemerson/CEARsearch/blob/master/Screenshots/Methods.JPG)
+![](https://github.com/jgemerson/GHCEAR_LeagueTables/blob/master/Screenshots/1.JPG)
+_________________
+
+![](https://github.com/jgemerson/GHCEAR_LeagueTables/blob/master/Screenshots/4.JPG)
+_________________
+
+![](https://github.com/jgemerson/GHCEAR_LeagueTables/blob/master/Screenshots/2.PNG)
+_________________
+
+![](https://github.com/jgemerson/GHCEAR_LeagueTables/blob/master/Screenshots/5.JPG)
+_________________
+
+![](https://github.com/jgemerson/GHCEAR_LeagueTables/blob/master/Screenshots/3.JPG)
+_________________
+
+
  
 ## Authors and Acknowledgement
 Funded by the [The Bill and Melinda Gates Foundation](https://www.gatesfoundation.org/) and supported by [CEVR](http://cevr.tuftsmedicalcenter.org/). 
