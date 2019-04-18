@@ -3,7 +3,7 @@
 ## Background
 The [Global Health Cost-Effectiveness Analysis (GH CEA) Registry](http://healtheconomics.tuftsmedicalcenter.org/orchard) is a database of all English-language cost-per-DALY averted cost-utility analyses published from 1995 to present. The GH CEA Registry is maintained and updated by Tufts Medical Center's [Center for the Evaluation of Value and Risk in Health (CEVR)](http://cevr.tuftsmedicalcenter.org/) and funded by the [Bill and Melinda Gates Foundation](https://www.gatesfoundation.org/).
 
-This R Shiny App serves a front-end search feature for the database, as well as League Table analytic tool to help researchers and policymakers access evidence for cost-effective health interventions primarily focusing on low- and middle-income (LMIC) settings. 
+This R Shiny App serves as a front-end search feature for the database, as well as League Table analytic tool to help researchers and policymakers access evidence for cost-effective health interventions primarily focusing on low- and middle-income (LMIC) settings. 
 
 
 ## Links and Access
