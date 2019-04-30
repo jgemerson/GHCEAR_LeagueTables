@@ -22,7 +22,7 @@ Packages used:
  - [Shiny JS](https://deanattali.com/shinyjs/)
 
 ## Version
-Current verion: 1.2.1. Last updated April 4, 2019.
+Current version: 1.2.1. Last updated April 4, 2019.
 
 ## Screenshots
 ![](https://github.com/jgemerson/GHCEAR_LeagueTables/blob/master/Screenshots/1.JPG)
